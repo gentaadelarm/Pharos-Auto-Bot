@@ -87,6 +87,7 @@ The bot provides color-coded logs:
 5. The bot includes random delays between operations
 
 ## Support 💬
+Follow x = @Gentaadelarm
 
 For issues or questions, please open an issue on GitHub.
 
